@@ -135,7 +135,7 @@ public class MyController implements Controller {
 		@Override
 		public void doCommand(String[] args) {
 			try {
-				model.dir(args[0]);
+				 model.dir(args[0]);
 			}
 			catch(ArrayIndexOutOfBoundsException e)	{
 				update("must insert a path");}
