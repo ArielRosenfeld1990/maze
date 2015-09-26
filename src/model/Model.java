@@ -4,7 +4,7 @@ import java.io.IOException;
 /**
 * <h1>Model</h1>
 * The Model interface represents our Model layer
-* <p>
+* <p>  
 *
 * @author  Ariel Rosenfeld,Ofir Calif
 *

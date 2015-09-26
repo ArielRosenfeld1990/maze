@@ -3,7 +3,7 @@ package view;
 import java.util.HashMap;
 import controller.Controller;
 import controller.MyController.Command;
-/** 
+/**   
 * <h1>MyView</h1>
 * The MyView class implements our View interface
 * <p>

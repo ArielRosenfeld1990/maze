@@ -2,7 +2,7 @@ package controller;
   
 import model.Model;
 import view.View;
-
+  
 /**
 * <h1>Controller</h1>
 * The Controller interface represents our Controller layer

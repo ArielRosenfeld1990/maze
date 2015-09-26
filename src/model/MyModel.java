@@ -108,7 +108,7 @@ public class MyModel implements Model {
 		}catch(Exception e){
 			controller.update(e.getMessage());	
 		}
-	} 
+	}   
 
 	/**
 	* This method is getting the cross section

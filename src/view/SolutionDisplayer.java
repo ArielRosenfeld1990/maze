@@ -4,7 +4,7 @@ import java.io.PrintWriter;
 
 import algorithms.search.Solution;
 import algorithms.search.State;
-/** 
+/**   
 * <h1>SolutionDisplayer</h1>
 * The SolutionDisplayer class implements our Displayer interface
 * <p>
