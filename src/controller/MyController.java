@@ -131,7 +131,7 @@ public class MyController implements Controller {
 	* <p>
 	* 
 	*/
-	public class DirCommand implements Command {
+	public class DirCommand implements Command { //ofir
 		@Override
 		public void doCommand(String[] args) {
 			try {
