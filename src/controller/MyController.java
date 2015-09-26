@@ -123,7 +123,7 @@ public class MyController implements Controller {
 	public interface Command {
 		void doCommand(String[] args );
 	}
-	
+	 
 	/**
 	* <h1>DirCommand</h1>
 	* The DirCommand class implements our Command interface

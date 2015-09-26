@@ -1,7 +1,7 @@
 package view;
 
 import java.io.PrintWriter;
-
+ 
 /**
 * <h1>StringDisplayer</h1>
 * The StringDisplayer class implements our Displayer interface
